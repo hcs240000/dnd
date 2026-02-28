@@ -1,4 +1,9 @@
 /* styles.css */
+.unifrakturmaguntia-regular {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 
 * {
 	font-family: Arial;

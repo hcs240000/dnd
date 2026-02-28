@@ -8,3 +8,7 @@
 	height: 405px;
 	margin: 64px auto;
 }
+.backgroundImage:hover {
+	background-image: url(../img/d20.png);
+	cursor: crosshair;
+}
